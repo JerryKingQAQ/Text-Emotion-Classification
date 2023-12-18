@@ -1,5 +1,4 @@
 # Emotional-Text-Classification
-# Text Emotion Classification Project README
 
 ## Overview
 
@@ -28,8 +27,3 @@ This repository is focused on text emotion classification, employing three diffe
 - The script will load the trained model and run it on the test dataset.
 - You will receive a classification report detailing the model's performance.
 
-## Installation
-
-1. Clone the repository:
-
-```git clone [[repository_url]](https://github.com/JerryKingQAQ/Emotional-Text-Classification)https://github.com/JerryKingQAQ/Emotional-Text-Classification```
